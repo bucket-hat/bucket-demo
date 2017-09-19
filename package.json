@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/bucket-hat/bucket-demo#readme",
   "dependencies": {
-    "bucket-core": "^0.1.0"
+    "bucket-core": "^0.1.1"
   }
 }
